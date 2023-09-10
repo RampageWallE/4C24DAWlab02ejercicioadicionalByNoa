@@ -22,7 +22,7 @@ public class OperacionesBasicas {
         return resultado;
     }
     public double dividir(double a, double b){
-        double resultado = a + b;
+        double resultado = a / b;
         return resultado;
     }
 }

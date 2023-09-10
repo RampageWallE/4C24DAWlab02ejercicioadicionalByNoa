@@ -22,8 +22,8 @@
             double number1 = Double.parseDouble(numero1);
             double number2 = Double.parseDouble(numero2);
             double resultado;
+            
             OperacionesBasicas ob = new OperacionesBasicas();
-
             
             switch (operacion){
                 case "sumar":
